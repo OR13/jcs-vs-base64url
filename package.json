@@ -1,0 +1,27 @@
+{
+  "name": "jcs-vs-base64url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OR13/jcs-vs-base64url.git"
+  },
+  "author": "Orie Steele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OR13/jcs-vs-base64url/issues"
+  },
+  "homepage": "https://github.com/OR13/jcs-vs-base64url#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "canonicalize": "^1.0.1",
+    "node-gzip": "^1.1.2"
+  }
+}
